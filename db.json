@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "First Task",
+      "day": "Anytime",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Second Task",
+      "day": "Monday",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Third Task",
+      "day": "Test task time",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Task you want to delete",
+      "day": "just push the cross",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Task you want to toggle",
+      "day": "double click the task",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
